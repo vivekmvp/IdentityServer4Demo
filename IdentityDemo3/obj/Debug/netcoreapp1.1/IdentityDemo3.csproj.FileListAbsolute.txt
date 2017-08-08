@@ -1,0 +1,10 @@
+C:\Users\vpate\documents\visual studio 2017\Projects\IdentityDemo3\IdentityDemo3\bin\Debug\netcoreapp1.1\IdentityDemo3.deps.json
+C:\Users\vpate\documents\visual studio 2017\Projects\IdentityDemo3\IdentityDemo3\bin\Debug\netcoreapp1.1\IdentityDemo3.runtimeconfig.json
+C:\Users\vpate\documents\visual studio 2017\Projects\IdentityDemo3\IdentityDemo3\bin\Debug\netcoreapp1.1\IdentityDemo3.runtimeconfig.dev.json
+C:\Users\vpate\documents\visual studio 2017\Projects\IdentityDemo3\IdentityDemo3\bin\Debug\netcoreapp1.1\IdentityDemo3.dll
+C:\Users\vpate\documents\visual studio 2017\Projects\IdentityDemo3\IdentityDemo3\bin\Debug\netcoreapp1.1\IdentityDemo3.pdb
+C:\Users\vpate\documents\visual studio 2017\Projects\IdentityDemo3\IdentityDemo3\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\vpate\documents\visual studio 2017\Projects\IdentityDemo3\IdentityDemo3\obj\Debug\netcoreapp1.1\IdentityDemo3.AssemblyInfo.cs
+C:\Users\vpate\documents\visual studio 2017\Projects\IdentityDemo3\IdentityDemo3\obj\Debug\netcoreapp1.1\IdentityDemo3.dll
+C:\Users\vpate\documents\visual studio 2017\Projects\IdentityDemo3\IdentityDemo3\obj\Debug\netcoreapp1.1\IdentityDemo3.pdb
+C:\Users\vpate\documents\visual studio 2017\Projects\IdentityDemo3\IdentityDemo3\obj\Debug\netcoreapp1.1\IdentityDemo3.csprojResolveAssemblyReference.cache
